@@ -5,5 +5,4 @@ Rails.application.routes.draw do
   
   get "/test", to: "articles#test"
   
-
 end
