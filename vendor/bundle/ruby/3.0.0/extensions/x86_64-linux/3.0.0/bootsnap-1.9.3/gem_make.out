@@ -1,0 +1,15 @@
+current directory: /home/aausen/dev/blog/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+/home/aausen/.rbenv/versions/3.0.2/bin/ruby -I /home/aausen/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20220107-1156-awc2jd.rb extconf.rb
+creating Makefile
+
+current directory: /home/aausen/dev/blog/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/aausen/dev/blog/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/aausen/dev/blog/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220107-1156-93bxoq/bootsnap
